@@ -1,6 +1,3 @@
 # Testing 
 
-Check
-
-## weird stuff
-Commit check
+This is starting to actually work 
